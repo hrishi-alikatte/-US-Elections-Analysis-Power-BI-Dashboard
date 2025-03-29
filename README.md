@@ -14,6 +14,9 @@ This Power BI project analyzes the US presidential elections dataset from 2000 t
 ### 📊 Dashboard_Report.pbix - The main Power BI dashboard file
 ### 📑 Semantic_Model.pbix - Power BI semantic model for structured analysis
 
+<img width="1078" alt="Screenshot 2025-03-29 at 2 49 37 PM" src="https://github.com/user-attachments/assets/124302c6-5412-42c0-bcbd-49982a2d98e3" />
+
+
 
 ## 🚀 How to Use
 Download the .pbix files
