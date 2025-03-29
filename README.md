@@ -3,14 +3,14 @@
 This Power BI project analyzes the US presidential elections dataset from 2000 to 2016, uncovering key trends, historical insights, state-wise voting patterns, and funding sources. The dashboard provides an interactive and visually engaging summary of voter turnout, party dominance, and electoral outcomes.
 # 📊 Key Features:
 
-✅ Election Results Visualization - Electoral votes & popular votes comparison
-✅ State-wise Party Trends - Republican vs. Democrat dominance by state
-✅ Voter Turnout Analysis - Historical voting trends & participation rates
-✅ Candidate & Sponsor Insights - Breakdown of candidates and their party affiliations
-✅ Interactive Dashboard - Built using Power BI for dynamic exploration
-📂 Files in this Repository
-📊 Dashboard_Report.pbix - The main Power BI dashboard file
-📑 Semantic_Model.pbix - Power BI semantic model for structured analysis
+### ✅ Election Results Visualization - Electoral votes & popular votes comparison
+### ✅ State-wise Party Trends - Republican vs. Democrat dominance by state
+### ✅ Voter Turnout Analysis - Historical voting trends & participation rates
+### ✅ Candidate & Sponsor Insights - Breakdown of candidates and their party affiliations
+### ✅ Interactive Dashboard - Built using Power BI for dynamic exploration
+### 📂 Files in this Repository
+### 📊 Dashboard_Report.pbix - The main Power BI dashboard file
+### 📑 Semantic_Model.pbix - Power BI semantic model for structured analysis
 .
 
 ## 🚀 How to Use
